@@ -1,0 +1,37 @@
+{
+  "data": 
+    [
+      {
+      "title": "Za mikro/male tvrtke",
+      "description": "Kompaktna rješenja prilagođena malim prostorima s fleksibilnim paketima. Omogućujemo vam da bez dodatnih troškova poboljšate zadovoljstvo zaposlenika uz minimalno održavanje i maksimalnu dostupnost.",
+      "titleIcon": "assets/icons/building2-svgrepo-com.svg",
+      "descriptionIcon": "assets/icons/users-svgrepo-com.svg",
+      "flairText": "150+ aktivnih korisnika",
+      "clickable": "assets/icons/chevron-down.svg"
+    },{
+
+      "title": "Za srednje/velike tvrtke",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "titleIcon": "assets/icons/chart-line-up-svgrepo-com.svg",
+      "descriptionIcon": "assets/icons/users-svgrepo-com.svg",
+      "flairText": "150+ aktivnih korisnika",
+      "clickable": "assets/icons/chevron-down.svg"
+    },
+   {
+      "title": "Za javne prostore",
+      "description": " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "titleIcon": "assets/icons/house-line-svgrepo-com.svg",
+      "descriptionIcon": "assets/icons/checkmark-double-svgrepo-com.svg",
+      "flairText": "150+ aktivnih korisnika",
+      "clickable": "assets/icons/chevron-down.svg"
+    },
+   {
+      "title": "Za teretane i fitness centre",
+      "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "titleIcon": "assets/icons/dumbbell-large-minimalistic-svgrepo-com.svg",
+      "descriptionIcon": "assets/icons/checkmark-double-svgrepo-com.svg",
+      "flairText": "150+ aktivnih korisnika",
+      "clickable": "assets/icons/chevron-down.svg"
+    }
+  ]
+}
